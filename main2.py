@@ -8,3 +8,5 @@ num = numbers[2:5]
 print(year)
 print(year2)
 print(num)
+
+2 + 2
